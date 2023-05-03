@@ -1,4 +1,5 @@
 .targets-files
+.targets-runs/
 _targets/meta/meta
 _targets/meta/process
 _targets/meta/progress
@@ -17,3 +18,4 @@ _targets/objects/vegmap
 data/domain.gpkg
 data/temp/raw_data/fire_modis/.tif
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
+secrets/ee-wilsonlab-emma-ef416058504a.json
