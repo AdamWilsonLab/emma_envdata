@@ -3,6 +3,7 @@
 _targets/meta/meta
 _targets/meta/process
 _targets/meta/progress
+_targets/objects/alos_release
 _targets/objects/climate_chelsa_release
 _targets/objects/country
 _targets/objects/domain
