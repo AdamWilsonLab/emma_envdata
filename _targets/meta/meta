@@ -1,14 +1,14 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|a4c3543fc9f2b090|||||||||||||||
-alos_release|stem|cf9fa3a635974ef9|24047d776af1fa05|b940e1fd4474e3ab|-2136423916||t19482.7591045449s|b2c2d69496a0fbf4|63|rds|local|vector|||2023.978||
+.Random.seed|object|775ac65e8199eb88|||||||||||||||
+alos_release|stem|cf9fa3a635974ef9|24047d776af1fa05|b940e1fd4474e3ab|-2136423916||t19482.7828238972s|b2c2d69496a0fbf4|63|rds|local|vector|||2023.978||
 clean_data|function|484d9c4667cbdd4d|||||||||||||||
 clean_up|function|12d4b712ff0e73f7|||||||||||||||
-climate_chelsa_release|stem|cc220cd15e309cb0|d1803c4bd07550ab|c7b5c5928f56f89f|1831999452||t19482.7591045449s|6281f79619f6778a|80|rds|local|vector|||214.274|mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
-clouds_wilson_release|stem|3fe873ceaa51890e|472dfa3e1cfe221a|5d49ad6495d7e7d5|1181943714||t19482.7591045449s|a1c456b03adbfbf8|44|rds|local|vector|||4046.235||
+climate_chelsa_release|stem|cc220cd15e309cb0|d1803c4bd07550ab|c7b5c5928f56f89f|1831999452||t19482.7828239435s|6281f79619f6778a|80|rds|local|vector|||214.274|mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
+clouds_wilson_release|stem|3fe873ceaa51890e|472dfa3e1cfe221a|5d49ad6495d7e7d5|1181943714||t19482.7828239435s|a1c456b03adbfbf8|44|rds|local|vector|||4046.235||
 convert_integer_date_R|function|71a7f2dd56cb6f6c|||||||||||||||
-country|stem|92d2256177196057|b6a9176b6c51da0c|171fc11275169737|-396713552||t19482.7591046375s|762b0ff687cec244|3225950|rds|local|vector|||5.849||
+country|stem|92d2256177196057|b6a9176b6c51da0c|171fc11275169737|-396713552||t19482.7828239898s|762b0ff687cec244|3225950|rds|local|vector|||5.849||
 credentials|object|8bec04910cd1cf0b|||||||||||||||
-domain|stem|495ab34543d5ff6c|7a783623d7c8b012|a7ea56b229b1b479|640757417||t19482.7591046838s|fcd9d4c2244204ac|2172235|rds|local|vector|||46.314||
+domain|stem|495ab34543d5ff6c|7a783623d7c8b012|a7ea56b229b1b479|640757417||t19482.7828240361s|fcd9d4c2244204ac|2172235|rds|local|vector|||46.314||
 domain_define|function|29865574796ec00e|||||||||||||||
 domain_distance|function|d97b1b9d96994761|||||||||||||||
 domain_distance_release|function|aca8aa7a8936b344|||||||||||||||
@@ -16,7 +16,8 @@ domain_map|function|b3a8249eb2758de6|||||||||||||||
 domain_rasterize|function|44797f03c1431513|||||||||||||||
 domain_remnants|function|062e9566c490e48e|||||||||||||||
 domain_remnants_release|function|f0c7d771cb7b64de|||||||||||||||
-fire_modis_release|stem|9f18ca737a34e4ec|8fb70f6336422aad|d1f14255bc0b8ed3|645962977||t19482.7591047301s|b2c2d69496a0fbf4|63|rds|local|vector|||577.001||
+elevation_nasadem_release|stem|3fe873ceaa51890e|3546dce05656b154|0ca3df5a262bf4fe|-1527521665||t19482.8160711108s|a1c456b03adbfbf8|44|rds|local|vector|||2788.297||
+fire_modis_release|stem|9f18ca737a34e4ec|8fb70f6336422aad|d1f14255bc0b8ed3|645962977||t19482.7828240361s|b2c2d69496a0fbf4|63|rds|local|vector|||577.001||
 fit_model|function|d0d4e0ea8d7f400c|||||||||||||||
 get_alos_data|function|0e3a10f6b9d46ff6|||||||||||||||
 get_domain|function|f4a2cb4148ca73b4|||||||||||||||
@@ -42,14 +43,14 @@ get_vegmap|function|aaa6165a398f62e5|||||||||||||||
 getQABits_match|function|866042616e64190c|||||||||||||||
 group_data_function|function|cf81a22df7ca8418|||||||||||||||
 json_token|object|fea55a1b02b40588|||||||||||||||
-kndvi_modis_release|stem|8d409016c6fbc6df|1c333bca10186b89|d1a5753fbebb579d|910579697||t19482.7591047301s|e0224cf10db1a05d|62|rds|local|vector|||8.299||
+kndvi_modis_release|stem|8d409016c6fbc6df|1c333bca10186b89|d1a5753fbebb579d|910579697||t19482.7828240361s|e0224cf10db1a05d|62|rds|local|vector|||8.299||
 MCD64A1_clean|function|497d11983dd6d889|||||||||||||||
 national_boundary|function|471aa3c1ebdbfb8e|||||||||||||||
-ndvi_dates_modis_release|stem|8d409016c6fbc6df|8ceb55e64842d05e|b0960d0660dedf22|-1234202563||t19482.7591047301s|e0224cf10db1a05d|62|rds|local|vector|||2.903||
-ndvi_dates_viirs_release|stem|4b42eb3c5e907407|41d4c065f30420a0|2b0786674e44c923|-1649923443||t19482.7591047301s|b2c2d69496a0fbf4|63|rds|local|vector|||15.461||
-ndvi_modis_release|stem|4b42eb3c5e907407|9ea74c95a7de9944|d8debd50b1861292|-198522288||t19482.7591047301s|b2c2d69496a0fbf4|63|rds|local|vector|||17.69||
-ndvi_viirs_release|stem|4b42eb3c5e907407|5b746c3692adf52f|7879313bae713ea5|-1131982573||t19482.7591047301s|b2c2d69496a0fbf4|63|rds|local|vector|||2.551||
-precipitation_chelsa_release|stem|54185d2cc62b2c60|d1963c6b7fea3eed|d31550d173a499ab|-1107610768||t19482.7591047301s|e655bbbdcbba1d63|81|rds|local|vector|||27.514|mask CRS do not match. mask CRS do not match|
+ndvi_dates_modis_release|stem|8d409016c6fbc6df|8ceb55e64842d05e|b0960d0660dedf22|-1234202563||t19482.7828240361s|e0224cf10db1a05d|62|rds|local|vector|||2.903||
+ndvi_dates_viirs_release|stem|4b42eb3c5e907407|41d4c065f30420a0|2b0786674e44c923|-1649923443||t19482.7828240361s|b2c2d69496a0fbf4|63|rds|local|vector|||15.461||
+ndvi_modis_release|stem|4b42eb3c5e907407|9ea74c95a7de9944|d8debd50b1861292|-198522288||t19482.7828240361s|b2c2d69496a0fbf4|63|rds|local|vector|||17.69||
+ndvi_viirs_release|stem|4b42eb3c5e907407|5b746c3692adf52f|7879313bae713ea5|-1131982573||t19482.7828240361s|b2c2d69496a0fbf4|63|rds|local|vector|||2.551||
+precipitation_chelsa_release|stem|54185d2cc62b2c60|d1963c6b7fea3eed|d31550d173a499ab|-1107610768||t19482.7828240824s|e655bbbdcbba1d63|81|rds|local|vector|||27.514|mask CRS do not match. mask CRS do not match|
 process_fix_modis_release_projection|function|1ef6d7e53b0d693f|||||||||||||||
 process_release_alos|function|d005ed1dab783976|||||||||||||||
 process_release_biome_raster|function|fc510d2c73034f1d|||||||||||||||
@@ -65,18 +66,18 @@ process_release_precipitation_chelsa|function|44868d1141e75d48|||||||||||||||
 process_release_soil_gcfr|function|1420c531de3c6619|||||||||||||||
 process_release_stable_data|function|44edc207a589855c|||||||||||||||
 release_data|function|c878d982c7ee5633|||||||||||||||
-remnants_shp|stem|9dc0c644eedf6430|81ff8511059852c0|ef46db3751d8e999|1961884837|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19482.7555499292s|9fd0b3ef5a76431f|726393404|file|local|vector|||0||
-remove_ee_backup|stem|976b5984c138c56f|f17967bcf763057b|ac3f527f89c037ba|-1291942979||t19482.7591047301s|ac45463db19e2cbe|48|rds|local|vector|||2.27||
+remnants_shp|stem|9dc0c644eedf6430|81ff8511059852c0|ef46db3751d8e999|1961884837|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19482.7811868177s|9fd0b3ef5a76431f|726393404|file|local|vector|||0||
+remove_ee_backup|stem|976b5984c138c56f|f17967bcf763057b|ac3f527f89c037ba|-1291942979||t19482.7828240824s|ac45463db19e2cbe|48|rds|local|vector|||2.27||
 robust_download_file|function|58d612fb3f95ba35|||||||||||||||
 robust_max|function|8a19f033b80615e4|||||||||||||||
 robust_min|function|cfd770d0a916a4f5|||||||||||||||
 robust_pb_download|function|c9145002d00cc12e|||||||||||||||
 robust_pb_download_solo|function|a40beb94c364506a|||||||||||||||
-sanbi_fires_shp|stem|b25dba72cd3b568e|829b3cd58fa9541a|9d2ef4ff7e1b0aae|-978850551||t19482.7591049616s|86e82bfe912b4784|11098403|rds|local|vector|||1.079||
+sanbi_fires_shp|stem|b25dba72cd3b568e|829b3cd58fa9541a|9d2ef4ff7e1b0aae|-978850551||t19482.7828242676s|86e82bfe912b4784|11098403|rds|local|vector|||1.079||
 service_account|object|d25d860e6aef3b46|||||||||||||||
 spatial_outputs|function|4c1a11d0b9579d31|||||||||||||||
 stan_data_function|function|60507201f11a2ffe|||||||||||||||
 summarize_posteriors|function|92d2f12f0d1f6071|||||||||||||||
 update_git|function|f837db84a6c90d8a|||||||||||||||
-vegmap|stem|f82b9365d7a5b190|1811b4a0f90e1688|26cd61d94db2b5bd|602754364||t19482.7591068598s|fc575f43e0a9c335|79090752|rds|local|vector|||57.088||
-vegmap_shp|stem|d3744d69c8da6bb2|193e3e8d55a8bbd4|ef46db3751d8e999|-232248272|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19482.755599238s|9cc1ad1c26fc3f86|493121012|file|local|vector|||0.001||
+vegmap|stem|f82b9365d7a5b190|1811b4a0f90e1688|26cd61d94db2b5bd|602754364||t19482.7828261194s|fc575f43e0a9c335|79090752|rds|local|vector|||57.088||
+vegmap_shp|stem|d3744d69c8da6bb2|193e3e8d55a8bbd4|ef46db3751d8e999|-232248272|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19482.7812578819s|9cc1ad1c26fc3f86|493121012|file|local|vector|||0.001||
