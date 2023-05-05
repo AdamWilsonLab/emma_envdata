@@ -13,10 +13,10 @@ _targets/objects/ndvi_dates_modis_release
 _targets/objects/ndvi_dates_viirs_release
 _targets/objects/ndvi_modis_release
 _targets/objects/ndvi_viirs_release
+_targets/objects/precipitation_chelsa_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
 _targets/objects/vegmap
 data/domain.gpkg
-data/temp/raw_data/fire_modis/.tif
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
 secrets/ee-wilsonlab-emma-ef416058504a.json
