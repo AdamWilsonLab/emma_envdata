@@ -26,6 +26,8 @@ _targets/objects/ndvi_modis_release
 _targets/objects/ndvi_relative_days_since_fire_release
 _targets/objects/ndvi_viirs_release
 _targets/objects/precipitation_chelsa_release
+_targets/objects/projected_alos_release
+_targets/objects/projected_climate_chelsa_release
 _targets/objects/remnants_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
