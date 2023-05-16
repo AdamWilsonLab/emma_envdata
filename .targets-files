@@ -26,12 +26,12 @@ _targets/objects/ndvi_modis_release
 _targets/objects/ndvi_relative_days_since_fire_release
 _targets/objects/ndvi_viirs_release
 _targets/objects/precipitation_chelsa_release
+_targets/objects/remnants_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
 _targets/objects/soil_gcfr_release
 _targets/objects/template_release
 _targets/objects/vegmap
 data/domain.gpkg
-data/temp/raw_data/ndvi_dates_modis/2022_11_17.tif
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
 secrets/ee-wilsonlab-emma-ef416058504a.json
