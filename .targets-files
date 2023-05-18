@@ -42,6 +42,7 @@ _targets/objects/remnants_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
 _targets/objects/soil_gcfr_release
+_targets/objects/stable_data_release
 _targets/objects/template_release
 _targets/objects/vegmap
 _targets/objects/vegmap_modis_proj
