@@ -28,7 +28,8 @@ template_release|stem|template_release|0|skipped
 fire_doy_to_unix_date_release|stem|fire_doy_to_unix_date_release|0|skipped
 remnants_release|stem|remnants_release|0|skipped
 projected_clouds_wilson_release|stem|projected_clouds_wilson_release|0|skipped
-vegmap_modis_proj|stem|vegmap_modis_proj|0|skipped
+vegmap_modis_proj|stem|vegmap_modis_proj|0|started
+vegmap_modis_proj|stem|vegmap_modis_proj|0|built
 projected_alos_release|stem|projected_alos_release|0|skipped
 projected_soil_gcfr_release|stem|projected_soil_gcfr_release|0|skipped
 projected_precipitation_chelsa_release|stem|projected_precipitation_chelsa_release|0|skipped
