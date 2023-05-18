@@ -35,6 +35,7 @@ _targets/objects/projected_climate_chelsa_release
 _targets/objects/projected_clouds_wilson_release
 _targets/objects/projected_precipitation_chelsa_release
 _targets/objects/projected_soil_gcfr_release
+_targets/objects/remnant_distance_release
 _targets/objects/remnants_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
