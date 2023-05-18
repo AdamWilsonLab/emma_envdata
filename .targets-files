@@ -21,6 +21,7 @@ _targets/objects/fire_dates_to_parquet_release
 _targets/objects/fire_doy_to_unix_date_release
 _targets/objects/fire_modis_release
 _targets/objects/kndvi_modis_release
+_targets/objects/landcover_za_release
 _targets/objects/most_recent_fire_dates_to_parquet_release
 _targets/objects/ndvi_dates_modis_release
 _targets/objects/ndvi_dates_viirs_release
