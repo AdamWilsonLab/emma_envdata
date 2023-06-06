@@ -6,8 +6,7 @@ vegmap_shp|stem|vegmap_shp|0|skipped
 remove_ee_backup|stem|remove_ee_backup|0|skipped
 vegmap|stem|vegmap|0|skipped
 domain|stem|domain|0|skipped
-ndwi_modis_release|stem|ndwi_modis_release|0|started
-ndwi_modis_release|stem|ndwi_modis_release|0|built
+ndwi_modis_release|stem|ndwi_modis_release|0|skipped
 landcover_za_release|stem|landcover_za_release|0|skipped
 soil_gcfr_release|stem|soil_gcfr_release|0|skipped
 clouds_wilson_release|stem|clouds_wilson_release|0|skipped
