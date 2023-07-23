@@ -48,14 +48,5 @@ _targets/objects/template_release
 _targets/objects/vegmap
 _targets/objects/vegmap_modis_proj
 data/domain.gpkg
-data/temp/raw_data/alos/alos_landforms.tif
-data/temp/raw_data/alos/alos_mtpi.tif
-data/temp/raw_data/alos/alos_topodiversity.tif
-data/temp/raw_data/alos/template.tif
-data/temp/raw_data/fire_modis/log.csv
-data/temp/raw_data/kndvi_modis/log.csv
-data/temp/raw_data/ndvi_dates_modis/2022_11_17.tif
-data/temp/raw_data/ndvi_dates_viirs/log.csv
-data/temp/raw_data/ndvi_viirs/log.csv
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
 secrets/ee-wilsonlab-emma-ef416058504a.json
