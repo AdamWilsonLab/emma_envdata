@@ -14,7 +14,8 @@ alos_release|stem|alos_release|0|skipped
 landcover_za_release|stem|landcover_za_release|0|skipped
 elevation_nasadem_release|stem|elevation_nasadem_release|0|skipped
 clouds_wilson_release|stem|clouds_wilson_release|0|skipped
-fire_modis_release|stem|fire_modis_release|0|skipped
+fire_modis_release|stem|fire_modis_release|0|started
+fire_modis_release|stem|fire_modis_release|0|built
 climate_chelsa_release|stem|climate_chelsa_release|0|skipped
 ndvi_dates_modis_release|stem|ndvi_dates_modis_release|0|skipped
 ndvi_viirs_release|stem|ndvi_viirs_release|0|skipped
