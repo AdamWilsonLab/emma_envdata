@@ -46,9 +46,6 @@ library(googledrive)
   }
 
 
-# stop("Brian: Update the fire download scripts.  Need to make sure the switch from 6.0 to 6.1 works.
-#        Should also migrate other modis products to 6.1")
-
 
 list(
 
@@ -177,20 +174,20 @@ list(
     #     #age = as.difftime(1, units = "days")
     #     #age = as.difftime(0, units = "hours")
     # ),
-    #
-    # tar_age(
-    #   ndvi_modis_release,
-    #   get_release_ndvi_modis(temp_directory = "data/temp/raw_data/ndvi_modis/",
-    #                           tag = "raw_ndvi_modis",
-    #                           domain = domain,
-    #                           max_layers = 5,
-    #                          sleep_time = 5,
-    #                          json_token = json_token),
-    #   age = as.difftime(7, units = "days")
-    #   #age = as.difftime(1, units = "days")
-    #   #age = as.difftime(0, units = "hours")
-    # ),
-    #
+
+    tar_age(
+      ndvi_modis_release,
+      get_release_ndvi_modis(temp_directory = "data/temp/raw_data/ndvi_modis/",
+                              tag = "raw_ndvi_modis",
+                              domain = domain,
+                              max_layers = 5,
+                             sleep_time = 5,
+                             json_token = json_token),
+      age = as.difftime(7, units = "days")
+      #age = as.difftime(1, units = "days")
+      #age = as.difftime(0, units = "hours")
+    ),
+
     # tar_age(
     #   ndvi_viirs_release,
     #   get_release_ndvi_viirs(temp_directory = "data/temp/raw_data/ndvi_viirs/",

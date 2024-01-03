@@ -11,10 +11,12 @@ _targets/objects/country
 _targets/objects/domain
 _targets/objects/elevation_nasadem_release
 _targets/objects/landcover_za_release
+_targets/objects/ndvi_modis_release
 _targets/objects/precipitation_chelsa_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
 _targets/objects/vegmap
 data/domain.gpkg
+data/temp/raw_data/ndvi_modis/.tif
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
 secrets/ee-wilsonlab-emma-ef416058504a.json
