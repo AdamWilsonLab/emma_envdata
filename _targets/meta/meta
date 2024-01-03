@@ -1,14 +1,14 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|7cf0be09d5dc22ad|||||||||||||||
-alos_release|stem|35655d477bb219e2|24047d776af1fa05|7d9e8fdcc3384e9a|-2136423916||t19725.8181909067s|e0224cf10db1a05d|62|rds|local|vector|||2088.511|It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.|
+.Random.seed|object|ceaaa92c97516a5a|||||||||||||||
+alos_release|stem|35655d477bb219e2|24047d776af1fa05|7d9e8fdcc3384e9a|-2136423916||t19725.8730775372s|e0224cf10db1a05d|62|rds|local|vector|||2088.511|It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.. It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.|
 clean_data|function|484d9c4667cbdd4d|||||||||||||||
 clean_up|function|12d4b712ff0e73f7|||||||||||||||
-climate_chelsa_release|stem|9df17ef2fd216582|d1803c4bd07550ab|efdc0d56b135cc86|1831999452||t19725.8181909067s|8619def19bb20a44|79|rds|local|vector|||118.004|mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
-clouds_wilson_release|stem|d36ea1299fa8d732|472dfa3e1cfe221a|c2387625e8f09910|1181943714||t19725.8678600933s|44e327d1ee1978d7|43|rds|local|vector|||4208.713|writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U|
+climate_chelsa_release|stem|9df17ef2fd216582|d1803c4bd07550ab|efdc0d56b135cc86|1831999452||t19725.8730775372s|8619def19bb20a44|79|rds|local|vector|||118.004|mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
+clouds_wilson_release|stem|d36ea1299fa8d732|472dfa3e1cfe221a|c2387625e8f09910|1181943714||t19725.8730775372s|44e327d1ee1978d7|43|rds|local|vector|||4208.713|writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U|
 convert_integer_date_R|function|71a7f2dd56cb6f6c|||||||||||||||
-country|stem|1dc49e06a6d6ce64|b6a9176b6c51da0c|171fc11275169737|-396713552||t19725.8181909993s|a5dd0139e56d47ec|3225947|rds|local|vector|||5.014||
+country|stem|1dc49e06a6d6ce64|b6a9176b6c51da0c|171fc11275169737|-396713552||t19725.8730776298s|a5dd0139e56d47ec|3225947|rds|local|vector|||5.014||
 credentials|object|8bec04910cd1cf0b|||||||||||||||
-domain|stem|8d967e3f991924f9|7a783623d7c8b012|b91fda537b6549cc|640757417||t19725.8181910455s|a0fc00511aa36cc2|2172232|rds|local|vector|||29.113||
+domain|stem|8d967e3f991924f9|7a783623d7c8b012|b91fda537b6549cc|640757417||t19725.8730776761s|a0fc00511aa36cc2|2172232|rds|local|vector|||29.113||
 domain_define|function|29865574796ec00e|||||||||||||||
 domain_distance|function|d97b1b9d96994761|||||||||||||||
 domain_distance_release|function|9bbe4ab777308cec|||||||||||||||
@@ -16,7 +16,7 @@ domain_map|function|b3a8249eb2758de6|||||||||||||||
 domain_rasterize|function|44797f03c1431513|||||||||||||||
 domain_remnants|function|062e9566c490e48e|||||||||||||||
 domain_remnants_release|function|f0c7d771cb7b64de|||||||||||||||
-elevation_nasadem_release|stem|d36ea1299fa8d732|3546dce05656b154|b8fd4b758cd76b70|-1527521665||t19725.8181910918s|44e327d1ee1978d7|43|rds|local|vector|||3355.318|It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.|
+elevation_nasadem_release|stem|d36ea1299fa8d732|3546dce05656b154|b8fd4b758cd76b70|-1527521665||t19725.8730777224s|44e327d1ee1978d7|43|rds|local|vector|||3355.318|It is very unusual to provide both email and path to drive_auth.They relate to two different auth methods.The path argument is only for a service account token.If you need to specify your own OAuth client, use drive_auth_configure.|
 fit_model|function|d0d4e0ea8d7f400c|||||||||||||||
 get_alos_data|function|0e3a10f6b9d46ff6|||||||||||||||
 get_domain|function|f4a2cb4148ca73b4|||||||||||||||
@@ -43,38 +43,38 @@ get_vegmap|function|aaa6165a398f62e5|||||||||||||||
 getQABits_match|function|866042616e64190c|||||||||||||||
 group_data_function|function|cf81a22df7ca8418|||||||||||||||
 json_token|object|fea55a1b02b40588|||||||||||||||
-landcover_za_release|stem|d36ea1299fa8d732|d54c8f03b2b8ce1c|a11a19b01c409be4|-1641120390||t19725.8181910918s|44e327d1ee1978d7|43|rds|local|vector|||298.179|GDAL Error 6 tmpRtmpNDIoC4spat_jJ8lrK9pxa2f5el_2021.tif, band 1 SetColorTable only supported for Byte or UInt16 bands in TIFF format.. GDAL Error 6 __wemma_envdataemma_envdatadatatempraw_datalandcover_zaSA_NLC_2020_GEO.tif, band 1 SetColorTable only supported for Byte or UInt16 bands in TIFF format.|
+landcover_za_release|stem|d36ea1299fa8d732|d54c8f03b2b8ce1c|a11a19b01c409be4|-1641120390||t19725.8730777224s|44e327d1ee1978d7|43|rds|local|vector|||298.179|GDAL Error 6 tmpRtmpNDIoC4spat_jJ8lrK9pxa2f5el_2021.tif, band 1 SetColorTable only supported for Byte or UInt16 bands in TIFF format.. GDAL Error 6 __wemma_envdataemma_envdatadatatempraw_datalandcover_zaSA_NLC_2020_GEO.tif, band 1 SetColorTable only supported for Byte or UInt16 bands in TIFF format.|
 MCD64A1_clean|function|497d11983dd6d889|||||||||||||||
 national_boundary|function|471aa3c1ebdbfb8e|||||||||||||||
-precipitation_chelsa_release|stem|9df17ef2fd216582|d1963c6b7fea3eed|0e94c8ec1f15a123|-1107610768||t19725.8181910918s|8619def19bb20a44|79|rds|local|vector|||22.721|mask CRS do not match. mask CRS do not match|
+precipitation_chelsa_release|stem|9df17ef2fd216582|d1963c6b7fea3eed|0e94c8ec1f15a123|-1107610768||t19725.8730777224s|8619def19bb20a44|79|rds|local|vector|||22.721|mask CRS do not match. mask CRS do not match|
 process_fix_modis_release_extent|function|428affc7f448775f|||||||||||||||
 process_fix_modis_release_projection|function|803c007d325eafde|||||||||||||||
 process_release_alos|function|8ccd08e77fbd10cb|||||||||||||||
 process_release_biome_raster|function|8e22c71f4f5089f1|||||||||||||||
 process_release_burn_date_to_last_burned_date|function|eb7456e2b92baf88|||||||||||||||
 process_release_climate_chelsa|function|a3990c26cf0b34c9|||||||||||||||
-process_release_clouds_wilson|function|d5a20140557795c8|||||||||||||||
+process_release_clouds_wilson|function|bc21da9cff7edefd|||||||||||||||
 process_release_dynamic_data_to_parquet|function|b79a10bcb825f89a|||||||||||||||
 process_release_elevation_nasadem|function|4ee7791a00d24b01|||||||||||||||
 process_release_fire_doy_to_unix_date|function|eebf79ea2679525e|||||||||||||||
 process_release_landcover_za|function|58d8670481efefe6|||||||||||||||
 process_release_ndvi_relative_days_since_fire|function|b4258725ad179dd8|||||||||||||||
-process_release_precipitation_chelsa|function|44868d1141e75d48|||||||||||||||
+process_release_precipitation_chelsa|function|7dae9a960361e73a|||||||||||||||
 process_release_soil_gcfr|function|55a9463f63856e7d|||||||||||||||
 process_release_stable_data|function|44edc207a589855c|||||||||||||||
 release_data|function|c878d982c7ee5633|||||||||||||||
-remnants_shp|stem|9dc0c644eedf6430|81ff8511059852c0|ef46db3751d8e999|1961884837|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19725.8149292709s|9fd0b3ef5a76431f|726393404|file|local|vector|||0||
-remove_ee_backup|stem|752642e1ce7d8568|f17967bcf763057b|ac3f527f89c037ba|-1291942979||t19725.8181910918s|2a8869f2435f83e9|47|rds|local|vector|||0.911||
+remnants_shp|stem|9dc0c644eedf6430|81ff8511059852c0|ef46db3751d8e999|1961884837|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19725.8698357971s|9fd0b3ef5a76431f|726393404|file|local|vector|||0||
+remove_ee_backup|stem|752642e1ce7d8568|f17967bcf763057b|ac3f527f89c037ba|-1291942979||t19725.8730777224s|2a8869f2435f83e9|47|rds|local|vector|||0.911||
 robust_download_file|function|58d612fb3f95ba35|||||||||||||||
 robust_max|function|8a19f033b80615e4|||||||||||||||
 robust_min|function|cfd770d0a916a4f5|||||||||||||||
 robust_pb_download|function|c9145002d00cc12e|||||||||||||||
 robust_pb_download_solo|function|a40beb94c364506a|||||||||||||||
-sanbi_fires_shp|stem|ae63defec08b0220|829b3cd58fa9541a|9d2ef4ff7e1b0aae|-978850551||t19725.8181913233s|89f18a23d5e6c90b|11098404|rds|local|vector|||0.628||
+sanbi_fires_shp|stem|ae63defec08b0220|829b3cd58fa9541a|9d2ef4ff7e1b0aae|-978850551||t19725.8730779538s|89f18a23d5e6c90b|11098404|rds|local|vector|||0.628||
 service_account|object|d25d860e6aef3b46|||||||||||||||
 spatial_outputs|function|4c1a11d0b9579d31|||||||||||||||
 stan_data_function|function|60507201f11a2ffe|||||||||||||||
 summarize_posteriors|function|92d2f12f0d1f6071|||||||||||||||
 update_git|function|f837db84a6c90d8a|||||||||||||||
-vegmap|stem|97d819c390fc7a83|1811b4a0f90e1688|26cd61d94db2b5bd|602754364||t19725.8181931752s|fc575f43e0a9c335|79090752|rds|local|vector|||38.974||
-vegmap_shp|stem|d3744d69c8da6bb2|193e3e8d55a8bbd4|ef46db3751d8e999|-232248272|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19725.8149427895s|9cc1ad1c26fc3f86|493121012|file|local|vector|||0||
+vegmap|stem|97d819c390fc7a83|1811b4a0f90e1688|26cd61d94db2b5bd|602754364||t19725.8730799446s|fc575f43e0a9c335|79090752|rds|local|vector|||38.974||
+vegmap_shp|stem|d3744d69c8da6bb2|193e3e8d55a8bbd4|ef46db3751d8e999|-232248272|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19725.8698498248s|9cc1ad1c26fc3f86|493121012|file|local|vector|||0||
