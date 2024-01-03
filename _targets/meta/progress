@@ -9,6 +9,7 @@ domain|stem|domain|0|skipped
 climate_chelsa_release|stem|climate_chelsa_release|0|skipped
 alos_release|stem|alos_release|0|skipped
 elevation_nasadem_release|stem|elevation_nasadem_release|0|skipped
-clouds_wilson_release|stem|clouds_wilson_release|0|skipped
+clouds_wilson_release|stem|clouds_wilson_release|0|started
+clouds_wilson_release|stem|clouds_wilson_release|0|built
 precipitation_chelsa_release|stem|precipitation_chelsa_release|0|skipped
 landcover_za_release|stem|landcover_za_release|0|skipped
