@@ -13,6 +13,7 @@ _targets/objects/correct_ndvi_release_proj
 _targets/objects/country
 _targets/objects/domain
 _targets/objects/elevation_nasadem_release
+_targets/objects/fire_modis_release
 _targets/objects/kndvi_modis_release
 _targets/objects/landcover_za_release
 _targets/objects/ndvi_dates_modis_release
