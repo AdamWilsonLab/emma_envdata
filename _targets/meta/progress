@@ -20,3 +20,5 @@ precipitation_chelsa_release|stem|precipitation_chelsa_release|0|skipped
 landcover_za_release|stem|landcover_za_release|0|skipped
 correct_fire_release_proj|stem|correct_fire_release_proj|0|started
 correct_fire_release_proj|stem|correct_fire_release_proj|0|built
+correct_fire_release_ext|stem|correct_fire_release_ext|0|started
+correct_fire_release_ext|stem|correct_fire_release_ext|0|built
