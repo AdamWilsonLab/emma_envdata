@@ -19,10 +19,12 @@ _targets/objects/correct_ndvi_release_proj_and_extent
 _targets/objects/country
 _targets/objects/domain
 _targets/objects/elevation_nasadem_release
+_targets/objects/fire_dates_to_parquet_release
 _targets/objects/fire_doy_to_unix_date_release
 _targets/objects/fire_modis_release
 _targets/objects/kndvi_modis_release
 _targets/objects/landcover_za_release
+_targets/objects/most_recent_fire_dates_to_parquet_release
 _targets/objects/ndvi_dates_modis_release
 _targets/objects/ndvi_modis_release
 _targets/objects/ndvi_relative_days_since_fire_release
@@ -39,6 +41,7 @@ _targets/objects/remnant_distance_release
 _targets/objects/remnants_release
 _targets/objects/remove_ee_backup
 _targets/objects/sanbi_fires_shp
+_targets/objects/stable_data_release
 _targets/objects/template_release
 _targets/objects/vegmap
 _targets/objects/vegmap_modis_proj
