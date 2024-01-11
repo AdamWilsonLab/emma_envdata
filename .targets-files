@@ -43,9 +43,5 @@ _targets/objects/template_release
 _targets/objects/vegmap
 _targets/objects/vegmap_modis_proj
 data/domain.gpkg
-data/temp/processed_data/most_recent_burn_dates/2023_08_01.tif
-data/temp/processed_data/most_recent_burn_dates/2023_09_01.tif
-data/temp/processed_data/most_recent_burn_dates/2023_10_01.tif
-data/temp/raw_data/ndvi_dates_modis/2023_10_16.tif
 secrets/ee-wilsonlab-emma-e7d8f39311f1.json
 secrets/ee-wilsonlab-emma-ef416058504a.json
