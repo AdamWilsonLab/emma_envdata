@@ -109,20 +109,20 @@ list(
                                  domain = domain)
       ),
 
-#   tar_target(
-#     clouds_wilson_release,
-#     get_release_clouds_wilson(temp_directory = "data/temp/raw_data/clouds_wilson/",
-#                               tag = "raw_static",
-#                               domain,
-#                               sleep_time = 180)
-#     ),
-#
-#   tar_target(
-#     elevation_nasadem_release,
-#     get_release_elevation_nasadem(temp_directory = "data/temp/raw_data/elevation_nasadem/",
-#                                   tag = "raw_static",
-#                                   domain)
-#     ),
+  tar_target(
+    clouds_wilson_release,
+    get_release_clouds_wilson(temp_directory = "data/temp/raw_data/clouds_wilson/",
+                              tag = "raw_static",
+                              domain,
+                              sleep_time = 180)
+    ),
+
+  tar_target(
+    elevation_nasadem_release,
+    get_release_elevation_nasadem(temp_directory = "data/temp/raw_data/elevation_nasadem/",
+                                  tag = "raw_static",
+                                  domain)
+    ),
 
   # tar_target(
   #   landcover_za_release,
