@@ -8,11 +8,9 @@ vegmap|stem|vegmap|0|skipped
 domain|stem|domain|0|skipped
 ndvi_dates_modis_release|stem|ndvi_dates_modis_release|0|skipped
 ndvi_modis_release|stem|ndvi_modis_release|0|skipped
-alos_release|stem|alos_release|0|dispatched
-alos_release|stem|alos_release|0|completed
+alos_release|stem|alos_release|0|skipped
 ndvi_viirs_release|stem|ndvi_viirs_release|0|skipped
-climate_chelsa_release|stem|climate_chelsa_release|0|dispatched
-climate_chelsa_release|stem|climate_chelsa_release|0|completed
+climate_chelsa_release|stem|climate_chelsa_release|0|skipped
 fire_modis_release|stem|fire_modis_release|0|skipped
 ndvi_dates_viirs_release|stem|ndvi_dates_viirs_release|0|skipped
 kndvi_modis_release|stem|kndvi_modis_release|0|skipped
@@ -25,8 +23,7 @@ correct_ndvi_dates_viirs_release_proj_and_extent|stem|correct_ndvi_dates_viirs_r
 correct_kndvi_release_proj_and_extent|stem|correct_kndvi_release_proj_and_extent|0|skipped
 template_release|stem|template_release|0|skipped
 ndvi_to_parquet_release|stem|ndvi_to_parquet_release|0|skipped
-projected_alos_release|stem|projected_alos_release|0|dispatched
-projected_alos_release|stem|projected_alos_release|0|completed
+projected_alos_release|stem|projected_alos_release|0|skipped
 fire_doy_to_unix_date_release|stem|fire_doy_to_unix_date_release|0|skipped
 remnants_release|stem|remnants_release|0|skipped
 burn_date_to_last_burned_date_release|stem|burn_date_to_last_burned_date_release|0|skipped
