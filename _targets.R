@@ -124,6 +124,7 @@ list(
                                   domain)
     ),
 
+  ##Temporarily commented out, seems to be an issue with URL for landcover data at present
   # tar_target(
   #   landcover_za_release,
   #   get_release_landcover_za(temp_directory = "data/temp/raw_data/landcover_za/",
@@ -131,12 +132,12 @@ list(
   #                            domain = domain)
   #   ),
 
-  # tar_target(
-  #   precipitation_chelsa_release,
-  #   get_release_precipitation_chelsa(temp_directory = "data/temp/raw_data/precipitation_chelsa/",
-  #                                    tag = "raw_static",
-  #                                    domain = domain)
-  #   ),
+  tar_target(
+    precipitation_chelsa_release,
+    get_release_precipitation_chelsa(temp_directory = "data/temp/raw_data/precipitation_chelsa/",
+                                     tag = "raw_static",
+                                     domain = domain)
+    ),
 
   ## commented out soil_gcfr_release at present due to API/rdryad issues.
   ## Emailed dryad folks on 2024/01/04, it seems the API update broke RDryad
@@ -404,25 +405,25 @@ list(
                              ... = alos_release)
       ),
 
-      # tar_target(
-      #   projected_climate_chelsa_release,
-      #   process_release_climate_chelsa(input_tag = "raw_static",
-      #                                  output_tag = "processed_static",
-      #                                  temp_directory = "data/temp/raw_data/climate_chelsa/",
-      #                                  template_release = template_release,
-      #                                  ... = climate_chelsa_release)
-      #   ),
-      #
-      # tar_target(
-      #   projected_clouds_wilson_release,
-      #   process_release_clouds_wilson(input_tag = "raw_static",
-      #                                 output_tag = "processed_static",
-      #                                 temp_directory = "data/temp/raw_data/clouds_wilson/",
-      #                                 template_release = template_release,
-      #                                 sleep_time = 180,
-      #                                 ... = clouds_wilson_release)
-      # ),
-      #
+      tar_target(
+        projected_climate_chelsa_release,
+        process_release_climate_chelsa(input_tag = "raw_static",
+                                       output_tag = "processed_static",
+                                       temp_directory = "data/temp/raw_data/climate_chelsa/",
+                                       template_release = template_release,
+                                       ... = climate_chelsa_release)
+        ),
+
+      tar_target(
+        projected_clouds_wilson_release,
+        process_release_clouds_wilson(input_tag = "raw_static",
+                                      output_tag = "processed_static",
+                                      temp_directory = "data/temp/raw_data/clouds_wilson/",
+                                      template_release = template_release,
+                                      sleep_time = 180,
+                                      ... = clouds_wilson_release)
+      ),
+
       # tar_target(
       #   projected_elevation_nasadem_release,
       #   process_release_elevation_nasadem(input_tag = "raw_static",
