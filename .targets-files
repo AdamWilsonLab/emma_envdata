@@ -43,6 +43,7 @@ _targets/objects/projected_elevation_nasadem_release
 _targets/objects/projected_landcover_za_release
 _targets/objects/projected_precipitation_chelsa_release
 _targets/objects/projected_soil_gcfr_release
+_targets/objects/protected_area_distance_release
 _targets/objects/remnant_distance_release
 _targets/objects/remnants_release
 _targets/objects/remove_ee_backup
