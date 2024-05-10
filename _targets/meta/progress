@@ -7,7 +7,5 @@ vegmap|stem|vegmap|0|skipped
 domain|stem|domain|0|skipped
 climate_chelsa_release|stem|climate_chelsa_release|0|skipped
 alos_release|stem|alos_release|0|skipped
-elevation_nasadem_release|stem|elevation_nasadem_release|0|dispatched
-elevation_nasadem_release|stem|elevation_nasadem_release|0|completed
-clouds_wilson_release|stem|clouds_wilson_release|0|dispatched
-clouds_wilson_release|stem|clouds_wilson_release|0|completed
+elevation_nasadem_release|stem|elevation_nasadem_release|0|skipped
+clouds_wilson_release|stem|clouds_wilson_release|0|skipped
