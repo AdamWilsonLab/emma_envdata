@@ -1,14 +1,20 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|5234477cb660902d|||||||||||||||
-alos_release|stem|b6a1bd55bd31cbef|637bd232b8051153|60bd24e2f77e44c8|-1907318551||t19853.1917120196s|08ec9a1d380611bb|62|rds|local|vector|||1828.431|Failed to create release raw_static already exists. File datatempraw_dataalosalos_chili.tif does not exist.. cannot remove file datatempraw_dataalosalos_chili.tif, reason No such file or directory|
+.Random.seed|object|5dc15af6b3f5d0e3|||||||||||||||
+alos_release|stem|b6a1bd55bd31cbef|637bd232b8051153|60bd24e2f77e44c8|-1907318551||t19853.7875328249s|08ec9a1d380611bb|62|rds|local|vector|||1828.431|Failed to create release raw_static already exists. File datatempraw_dataalosalos_chili.tif does not exist.. cannot remove file datatempraw_dataalosalos_chili.tif, reason No such file or directory|
 clean_data|function|860451632161bcc2|||||||||||||||
 clean_up|function|da902670bb7f01f4|||||||||||||||
-climate_chelsa_release|stem|486d9200e0a6e1eb|4c496a15fe2faf91|1e2786614df95ab7|-670781068||t19853.1917120196s|d22c29dc585b97b0|78|rds|local|vector|||270.442|Failed to create release raw_static already exists. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
-clouds_wilson_release|stem|95c869582cc88ef6|f150508c10cf97e7|78fd3d8dbba52ad7|1172034663||t19853.1917120196s|e255484007059372|43|rds|local|vector|||3990.162|writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U|
+climate_chelsa_release|stem|486d9200e0a6e1eb|4c496a15fe2faf91|1e2786614df95ab7|-670781068||t19853.7875328249s|d22c29dc585b97b0|78|rds|local|vector|||270.442|Failed to create release raw_static already exists. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match. mask CRS do not match|
+clouds_wilson_release|stem|95c869582cc88ef6|f150508c10cf97e7|78fd3d8dbba52ad7|1172034663||t19853.7875328712s|e255484007059372|43|rds|local|vector|||3990.162|writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U. writeRaster could not write the color tabledetected values outside of the limits of datatype INT1U|
 convert_integer_date_R|function|9db9cb08cabaa163|||||||||||||||
-country|stem|07139d16cf9a2b11|53feefadcddcbd52|02a2586963fe30de|-430139696||t19853.1917121121s|87428ceb68b213c4|3225947|rds|local|vector|||5.694||
+correct_fire_release_proj_and_extent|stem|8efad5008f04c3d1|e88155e5f845243b|0e18be43c822e4b8|-513340119||t19853.8387497735s|5af7efb62b7d05c3|60|rds|local|vector|||8.092||
+correct_kndvi_release_proj_and_extent|stem|52ae7346fdf0055f|e36317c122658a49|aa85ef6e9ffc55fd|-400786149||t19853.8386560685s|08ec9a1d380611bb|62|rds|local|vector|||3364.946||
+correct_ndvi_dates_release_proj_and_extent|stem|8efad5008f04c3d1|1d0f5f39ef47d1b6|862ac7f64a57f0b3|-1844360325||t19853.8420530483s|5af7efb62b7d05c3|60|rds|local|vector|||8.663||
+correct_ndvi_dates_viirs_release_proj_and_extent|stem|c844bdfade924e31|3b1537aa5672e9a9|5d939974a88d5abf|-1740442558||t19853.8419527235s|08ec9a1d380611bb|62|rds|local|vector|||276.733||
+correct_ndvi_release_proj_and_extent|stem|8efad5008f04c3d1|1fbc0b9e845a2f4f|e5828fe4fabe10a3|1368263608||t19853.8420769837s|5af7efb62b7d05c3|60|rds|local|vector|||2.065||
+correct_ndvi_viirs_release_proj_and_extent|stem|c844bdfade924e31|29a293593485c079|497e7147b62c2759|-881224248||t19853.8643579619s|08ec9a1d380611bb|62|rds|local|vector|||1925.07||
+country|stem|07139d16cf9a2b11|53feefadcddcbd52|02a2586963fe30de|-430139696||t19853.7875329175s|87428ceb68b213c4|3225947|rds|local|vector|||5.694||
 credentials|object|a29369d7a69268cc|||||||||||||||
-domain|stem|b663de86bc5ed093|3b892a93e2976da1|3200336cebee9d87|-103757746||t19853.1917122047s|c816d4ae14ea3e59|2172232|rds|local|vector|||37.081||
+domain|stem|b663de86bc5ed093|3b892a93e2976da1|3200336cebee9d87|-103757746||t19853.7875329638s|c816d4ae14ea3e59|2172232|rds|local|vector|||37.081||
 domain_define|function|a01b7cc8a65adde0|||||||||||||||
 domain_distance|function|939a115603a9b4df|||||||||||||||
 domain_distance_release|function|c9d2a5f3c74dfc11|||||||||||||||
@@ -16,8 +22,8 @@ domain_map|function|9b57e91e94d73101|||||||||||||||
 domain_rasterize|function|29d78831857df164|||||||||||||||
 domain_remnants|function|4c6497b244bdbc02|||||||||||||||
 domain_remnants_release|function|d06ba69c89670801|||||||||||||||
-elevation_nasadem_release|stem|95c869582cc88ef6|844ad2839f008475|0498af4a36fc3e23|-1675952279||t19853.1917122047s|e255484007059372|43|rds|local|vector|||2700.263||
-fire_modis_release|stem|6cf1be5cad26e5d2|afcd0a600e5b5223|b23d36a77925b946|-13312080||t19853.3114465703s|08ec9a1d380611bb|62|rds|local|vector|||2.064||
+elevation_nasadem_release|stem|95c869582cc88ef6|844ad2839f008475|0498af4a36fc3e23|-1675952279||t19853.7875330101s|e255484007059372|43|rds|local|vector|||2700.263||
+fire_modis_release|stem|6cf1be5cad26e5d2|afcd0a600e5b5223|b23d36a77925b946|-13312080||t19853.7882489859s|08ec9a1d380611bb|62|rds|local|vector|||27.828||
 fit_model|function|8f8e281853bbef05|||||||||||||||
 get_alos_data|function|75cf21dd60609648|||||||||||||||
 get_domain|function|73c97bc96bfedda4|||||||||||||||
@@ -44,16 +50,16 @@ get_vegmap|function|863557abfed0515f|||||||||||||||
 getQABits_match|function|774129dadc723d26|||||||||||||||
 group_data_function|function|3e4778f64d247976|||||||||||||||
 json_token|object|74d5252be6c7b663|||||||||||||||
-kndvi_modis_release|stem|8efad5008f04c3d1|6246fd492b572c7b|823a19cb8480fd6f|111166643||t19853.2205906128s|5af7efb62b7d05c3|60|rds|local|vector|||2461.264||
+kndvi_modis_release|stem|8efad5008f04c3d1|6246fd492b572c7b|823a19cb8480fd6f|111166643||t19853.7875330101s|5af7efb62b7d05c3|60|rds|local|vector|||2461.264||
 max_layers|object|08d5f59e833de599|||||||||||||||
 MCD64A1_clean|function|34fe448c6b18d733|||||||||||||||
-mean_ndvi_release|stem|8efad5008f04c3d1|27ed7ea3d91758f1|b0e157608b0285b8|348956626||t19853.4106455364s|5af7efb62b7d05c3|60|rds|local|vector|||833.742||
+mean_ndvi_release|stem|8efad5008f04c3d1|27ed7ea3d91758f1|b0e157608b0285b8|348956626||t19853.7997098328s|5af7efb62b7d05c3|60|rds|local|vector|||986.739||
 national_boundary|function|865305b12ad0bf45|||||||||||||||
-ndvi_dates_modis_release|stem|8efad5008f04c3d1|e686300a8a9923a4|8693383525203e8a|649479304||t19853.3114225888s|5af7efb62b7d05c3|60|rds|local|vector|||20.051||
-ndvi_dates_viirs_release|stem|c844bdfade924e31|578a29e47b5ec1f4|c1d65f559e85d8cc|59522557||t19853.3111904596s|08ec9a1d380611bb|62|rds|local|vector|||7827.821||
-ndvi_modis_release|stem|8efad5008f04c3d1|6e3ec27f1f2e4131|2a1d2d5857ce5ba9|1944888180||t19853.3114659684s|5af7efb62b7d05c3|60|rds|local|vector|||1.671||
-ndvi_viirs_release|stem|c844bdfade924e31|4f418c2984a9746f|89209ca988862d3e|-1563412243||t19853.4003764321s|08ec9a1d380611bb|62|rds|local|vector|||7681.864||
-precipitation_chelsa_release|stem|8aea874f6413c175|a42508f0734ece68|cf298b049cf509fc|1876821475||t19853.4009956901s|abfed6147cb58a5b|79|rds|local|vector|||53.499|mask CRS do not match. mask CRS do not match|
+ndvi_dates_modis_release|stem|8efad5008f04c3d1|e686300a8a9923a4|8693383525203e8a|649479304||t19853.7882693564s|5af7efb62b7d05c3|60|rds|local|vector|||1.752||
+ndvi_dates_viirs_release|stem|c844bdfade924e31|578a29e47b5ec1f4|c1d65f559e85d8cc|59522557||t19853.7875330101s|08ec9a1d380611bb|62|rds|local|vector|||7827.821||
+ndvi_modis_release|stem|8efad5008f04c3d1|6e3ec27f1f2e4131|2a1d2d5857ce5ba9|1944888180||t19853.7882891713s|5af7efb62b7d05c3|60|rds|local|vector|||1.706||
+ndvi_viirs_release|stem|c844bdfade924e31|4f418c2984a9746f|89209ca988862d3e|-1563412243||t19853.7875330101s|08ec9a1d380611bb|62|rds|local|vector|||7681.864||
+precipitation_chelsa_release|stem|8aea874f6413c175|a42508f0734ece68|cf298b049cf509fc|1876821475||t19853.7875330101s|abfed6147cb58a5b|79|rds|local|vector|||53.499|mask CRS do not match. mask CRS do not match|
 process_fix_modis_NDVI_release_extent|function|78480d840c75d726|||||||||||||||
 process_fix_modis_release_extent|function|a7fcb6002d0c81b0|||||||||||||||
 process_fix_modis_release_projection|function|d5471fb33885fc04|||||||||||||||
@@ -73,14 +79,14 @@ process_release_protected_area_distance|function|4ded7cf04ce267a2|||||||||||||||
 process_release_soil_gcfr|function|51a95877cbbd87c2|||||||||||||||
 process_release_stable_data|function|d7e21566c1505209|||||||||||||||
 release_data|function|2c9988c7000cc9cb|||||||||||||||
-remnants_shp|stem|d03b72197917a3dc|4adc3961bf1f92a3|2c530c1562a7fbd1|977857804|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19853.1884447125s|da5801db2b335435|726393404|file|local|vector|||0||
+remnants_shp|stem|d03b72197917a3dc|4adc3961bf1f92a3|2c530c1562a7fbd1|977857804|data/manual_download/RLE_2021_Remnants/RLE_Terr_2021_June2021_Remnants_ddw.shp|t19853.7842505386s|da5801db2b335435|726393404|file|local|vector|||0||
 robust_download_file|function|2ea70b1df9a469fc|||||||||||||||
 robust_max|function|6d27abe569a34028|||||||||||||||
 robust_min|function|21d2e9972a741573|||||||||||||||
 robust_pb_download|function|4df763e84d88eae4|||||||||||||||
 robust_pb_download_solo|function|d148e32c5f7beb8f|||||||||||||||
 robust_pb_upload|function|bf296132f5183235|||||||||||||||
-sanbi_fires_shp|stem|c3d98ca868513648|ad2b4c72d73ab4f6|2c530c1562a7fbd1|-2058275306||t19853.1917125288s|21cb6d8f0f1029db|11098404|rds|local|vector|||0.616||
+sanbi_fires_shp|stem|c3d98ca868513648|ad2b4c72d73ab4f6|2c530c1562a7fbd1|-2058275306||t19853.7875332415s|21cb6d8f0f1029db|11098404|rds|local|vector|||0.616||
 service_account|object|62ff0f3be8442129|||||||||||||||
 sleep_time|object|9f0cda529028d8d9|||||||||||||||
 spatial_outputs|function|d4fac95c20424f91|||||||||||||||
@@ -89,6 +95,6 @@ summarize_posteriors|function|848f748de452ef0d|||||||||||||||
 tag|object|64ff18d09ad298f3|||||||||||||||
 temp_directory|object|40d122f36d50a344|||||||||||||||
 update_git|function|8d72fa6c21b94951|||||||||||||||
-vegmap|stem|0d515d9bd5cda33b|f82077cc150b71ed|5a2466a97175af36|986433229||t19853.1917145658s|2b38c304252323b3|79090752|rds|local|vector|||39.375||
-vegmap_shp|stem|495c02a4c1083ae3|64fa0ae6793b59bf|2c530c1562a7fbd1|-979952299|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19853.1884586939s|2fbeb500751aaffb|493121012|file|local|vector|||0.702||
+vegmap|stem|0d515d9bd5cda33b|f82077cc150b71ed|5a2466a97175af36|986433229||t19853.7875352323s|2b38c304252323b3|79090752|rds|local|vector|||39.375||
+vegmap_shp|stem|495c02a4c1083ae3|64fa0ae6793b59bf|2c530c1562a7fbd1|-979952299|data/manual_download/VEGMAP2018_AEA_16082019Final/NVM2018_AEA_V22_7_16082019_final.shp|t19853.7842644738s|2fbeb500751aaffb|493121012|file|local|vector|||0.702||
 verbose|object|988c41ba10911dc8|||||||||||||||

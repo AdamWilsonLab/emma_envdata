@@ -6,6 +6,12 @@ _targets/meta/progress
 _targets/objects/alos_release
 _targets/objects/climate_chelsa_release
 _targets/objects/clouds_wilson_release
+_targets/objects/correct_fire_release_proj_and_extent
+_targets/objects/correct_kndvi_release_proj_and_extent
+_targets/objects/correct_ndvi_dates_release_proj_and_extent
+_targets/objects/correct_ndvi_dates_viirs_release_proj_and_extent
+_targets/objects/correct_ndvi_release_proj_and_extent
+_targets/objects/correct_ndvi_viirs_release_proj_and_extent
 _targets/objects/country
 _targets/objects/domain
 _targets/objects/elevation_nasadem_release
