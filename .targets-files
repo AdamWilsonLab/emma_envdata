@@ -29,11 +29,16 @@ _targets/objects/precipitation_chelsa_release
 _targets/objects/projected_alos_release
 _targets/objects/projected_climate_chelsa_release
 _targets/objects/projected_clouds_wilson_release
+_targets/objects/projected_elevation_nasadem_release
+_targets/objects/projected_landcover_za_release
+_targets/objects/projected_precipitation_chelsa_release
+_targets/objects/projected_soil_gcfr_release
 _targets/objects/protected_area_distance_release
 _targets/objects/remnant_distance_release
 _targets/objects/remnants_release
 _targets/objects/sanbi_fires_shp
 _targets/objects/template_release
 _targets/objects/vegmap
+_targets/objects/vegmap_modis_proj
 data/domain.gpkg
 secrets/ee-wilsonlab-emma-ef416058504a.json
